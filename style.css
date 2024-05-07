@@ -1,0 +1,8 @@
+.bg-img1,
+.bg-img2,
+.bg-img3 {
+  background-color: #000;
+  height: 700px;
+  object-fit: cover;
+  filter: brightness(50%);
+}
